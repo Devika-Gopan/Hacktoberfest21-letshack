@@ -1,4 +1,4 @@
-/*Program to print transpose of a matrix*/
+//Program to print transpose of a matrix
 #include<stdio.h>
       void main()
       {
